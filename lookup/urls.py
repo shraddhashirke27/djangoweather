@@ -1,5 +1,5 @@
 # Importing required libraries
-from django.urls import pathf
+from django.urls import path
 from . import views
 
 urlpatterns = [
